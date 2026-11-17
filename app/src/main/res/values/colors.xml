@@ -1,0 +1,12 @@
+<resources>
+    <!-- TextPup Brand Palette matching web tokens.css -->
+    <color name="brand_primary">#5B5CE6</color>
+    <color name="brand_primary_dark">#4B4BC9</color>
+    <color name="brand_accent">#10B981</color>
+
+    <color name="bg_dark">#090D1A</color>
+    <color name="surface_dark">#131B2E</color>
+    <color name="border_dark">#222F4C</color>
+    <color name="text_primary_dark">#F8FAFC</color>
+    <color name="text_secondary_dark">#94A3B8</color>
+</resources>
